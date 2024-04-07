@@ -1,0 +1,25 @@
+BASH - it is a language for terminals
+pwd -> present working directory
+cd -> to change directory
+mkdir -> to make new directory
+touch -> to make new file
+cat -> to read data froma a file
+ls -> to see all directory / files
+vi -> to edit file from terminal itself
+&& -> to add multiple command
+mv -> move file from one dir to other
+cp -> copy file from one directory to other
+cp -r -> to copy a directory
+chmod -> change file permission
+echo -. to print something on terminal
+head ->
+tail ->
+wc ->
+grep -> to find occurance of certain thing (word, phrase, etc)
+| (pipe operator) ->
+grep -(options) -> we can add options to any command
+rm -> to remove / delete a file or directory
+history ->
+script in bash
+grep, shed, awk ->
+
